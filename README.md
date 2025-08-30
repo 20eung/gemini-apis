@@ -1,6 +1,6 @@
 # Gemini API 키를 교체하며 gemini-cli를 사용하는 방법
 
-## 1. Google Cloud API KEY를 발급받는다.
+## 1. Google Cloud 프로젝트를 생성한다.
 
 ### 1.1 Google Cloud 접속
 * https://console.cloud.google.com 접속
