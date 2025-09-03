@@ -29,7 +29,7 @@
 
 ## 3. Alias 설정
 
-### 3.1 ~/.bash_aliases 파일에 아래 내용을 적는다
+### 3.1 ~/.zsh_aliases 파일에 아래 내용을 적는다
 
 ```bash
 # Gemini-CLI API Keys
